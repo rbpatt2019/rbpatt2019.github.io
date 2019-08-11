@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Introductory Chemistry Lab Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Johns Hopkins University, Dept. of Chemistry"
+date: 2014-12-01
+location: "Baltimore, Maryland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lead a section of 20 students in experiments each week while helping students develop skills in lab safety, critical analysis, and chemical principles. Additionally, I assisted in grading worksheets, notebooks, lab reports, and exams for ~100 students.
 
 Heading 1
 ======
