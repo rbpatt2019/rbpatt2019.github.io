@@ -43,20 +43,29 @@ redirect_from:
 ## Familiar Techniques
 
 **Data Science**
+* Python
+   * Multiple IDEs (VIM, PyCharm, VSCode)
+   * Virtual environment and version control with pyenv
+* Command line interfaces (Unix, Windows, MacOS)
+* Project version control with git
+* High-throughput data analysis (Perkin Elmer Harmony platform)
+* DNA sequence analysis
+   * Blast
+   * Clustal
 
 **Laboratory**
-   * Airy scan microscopy (Zeis 880 platform)
-   * High-throughput laser confocal microscopy (Perkin Elmer Phenix platform)
-   * General cell culture
-   * Chemical differentiation of iPSCs
-   * Immunofluorescence
-   * Plasmid and viral vector design and construction
-   * Western blotting
-   * DNA gel electrophoresis
-   * Mouse surgery and dissection
-   * Biotinylation 
-   * Golgi staining
-   * Brain slice preparation for electrophysiology
+* Airy scan microscopy (Zeis 880 platform)
+* High-throughput laser confocal microscopy (Perkin Elmer Phenix platform)
+* General cell culture
+* Chemical differentiation of iPSCs
+* Immunofluorescence
+* Plasmid and viral vector design and construction
+* Western blotting
+* DNA gel electrophoresis
+* Mouse surgery and dissection
+* Biotinylation 
+* Golgi staining
+* Brain slice preparation for electrophysiology
 
 ## Publications
 
