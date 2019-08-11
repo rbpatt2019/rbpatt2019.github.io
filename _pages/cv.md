@@ -67,6 +67,12 @@ redirect_from:
 * Golgi staining
 * Brain slice preparation for electrophysiology
 
+## Teaching
+
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 ## Awards
 
 **Intramural Research Training Award** _National Institutes of Health (2015 - Present)_
@@ -86,9 +92,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 -->
-  
-## Teaching
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
