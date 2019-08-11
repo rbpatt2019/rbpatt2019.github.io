@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ryan B Patterson"
   avatar           : "profile.png"
-  bio              : "I am a Master's candidate at The University of Oxford and The National Institute of Neurological Disorders and Stroke with a passion for data science, Ppython, and VIM."
-  location         : "Bethesda, Maryland, United States of America"
-  employer         : "The National Institute of Neurological Disorders and Stroke"
+  bio              : "I am a Master's candidate at The University of Oxford and The National Institute of Neurological Disorders and Stroke with a passion for data science, Python, and VIM."
+  employer         : "NIH/NINDS"
+  location         : "Bethesda, MD, USA"
   pubmed           : 
   googlescholar    : 
   email            : "ryan.patterson.2015@gmail.com"
