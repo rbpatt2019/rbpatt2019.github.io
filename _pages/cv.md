@@ -11,7 +11,12 @@ redirect_from:
 
 ## Graduate Education
 
-**MSc (Res) in Biomedical Science** _The University of Oxford, 2019 (expected)_
+**Further Coursework** _Fellowship for Advanced Education in the Sciences, (2018 - 2019)_
+   * Introduction to Python
+   * Applied Machine Learning
+   * Theoretical and Applied Bioinformatics
+
+**MSc (Res) in Biomedical Science** _The University of Oxford, (2019) (expected)_
 
 **BSc in Neuroscience**, _Johns Hopkins University, 2015_
 
@@ -22,23 +27,24 @@ redirect_from:
 ## Research Experience
 
 **Masters Student** _(2015 - Present)_
-* Github University
-* Duties included: Tagging issues
-* Supervisor: Professor Git
+* Department of Physiology, Anatomy, and Genetics, The University of Oxford
+* Supervisors: Professor Richard Wade-Martins (Oxford) and Professor Craig Blackstone (NINDS/NIH)
+* Developed assay for measuring mitophagy _in situ_. 
+* Built pipeline for high-throughput imaging analysis. 
+* Designed and executed experiments examining the effects of autophagic perturbations on mitochondrial function.
+* Techniques: Professor Git
 
-**Research Assistant** _()_
+**Research Assistant** _(2011 - 2015)_
 * Solomon H. Snyder Department of Neuroscience, Johns Hopkins University
 * Supervisor: Professor Hey-Kyoung Lee
-* Duties included: Tagging issues
+* Assisted in experiments examining the effects of visual deprivation on the strength of synapses in the primary auditory and visual cortices of mice.
+* Techniques: Golgi staining, biotinylation, western blotting, mouse surgical injections, dissection, electrophysiology brain slice preparation, laser confocal microscopy
   
-## Skills
+## Familiar Techniques
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Data Science**
+
+**Laboratory**
 
 ## Publications
 
@@ -59,7 +65,3 @@ Talks
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-## Service and leadership
-
-* Currently signed in to 43 different slack teams
