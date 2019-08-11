@@ -10,11 +10,3 @@ location: "Baltimore, Maryland"
 
 Lead a section of 20 students in experiments each week while helping students develop skills in lab safety, critical analysis, and chemical principles. Additionally, I assisted in grading worksheets, notebooks, lab reports, and exams for ~100 students.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
