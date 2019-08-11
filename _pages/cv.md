@@ -9,26 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Graduate Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**MSc (Res) in Biomedical Science** _The University of Oxford, 2019 (expected)_
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**BSc in Neuroscience**, _Johns Hopkins University, 2015_
+
+**BSc in Molecular and Cellular Biology**, _Johns Hopkins University, 2015_
+
+**Minor in Spanish for the Professions**, _Johns Hopkins University, 2015_
+
+## Research Experience
+
+**Masters Student** _(2015 - Present)_
+* Github University
+* Duties included: Tagging issues
+* Supervisor: Professor Git
+
+**Research Assistant** _()_
+* Solomon H. Snyder Department of Neuroscience, Johns Hopkins University
+* Supervisor: Professor Hey-Kyoung Lee
+* Duties included: Tagging issues
   
-Skills
-======
+## Skills
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -36,24 +40,26 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+## Service and leadership
+
 * Currently signed in to 43 different slack teams
