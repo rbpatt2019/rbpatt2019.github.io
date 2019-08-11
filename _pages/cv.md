@@ -45,6 +45,18 @@ redirect_from:
 **Data Science**
 
 **Laboratory**
+   * Airy scan microscopy (Zeis 880 platform)
+   * High-throughput laser confocal microscopy (Perkin Elmer Phenix platform)
+   * General cell culture
+   * Chemical differentiation of iPSCs
+   * Immunofluorescence
+   * Plasmid and viral vector design and construction
+   * Western blotting
+   * DNA gel electrophoresis
+   * Mouse surgery and dissection
+   * Biotinylation 
+   * Golgi staining
+   * Brain slice preparation for electrophysiology
 
 ## Publications
 
