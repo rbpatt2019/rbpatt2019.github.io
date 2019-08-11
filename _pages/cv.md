@@ -67,6 +67,12 @@ redirect_from:
 * Golgi staining
 * Brain slice preparation for electrophysiology
 
+## Awards
+
+**Intramural Research Training Award** _National Institutes of Health (2015 - Present)_
+
+**Barry Goldwater Scholarship** _The Barry Goldwater Scholarship and Excellence in Education Foundation (2014)_
+
 ## Publications
 
   <ul>{% for post in site.publications %}
