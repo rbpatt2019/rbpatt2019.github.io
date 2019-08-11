@@ -2,7 +2,7 @@
 title: "Introductory Chemistry Lab Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014_chemistry_ta
 venue: "Johns Hopkins University, Dept. of Chemistry"
 date: 2014-12-01
 location: "Baltimore, Maryland"

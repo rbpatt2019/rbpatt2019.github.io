@@ -2,7 +2,7 @@
 title: "Scientists Teaching Science"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2018_faes_sts
 venue: "Fellowship for Advanced Education in the Sciences, NIH"
 date: 2018-05-01
 location: "Bethesda, Maryland"
