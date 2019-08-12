@@ -32,13 +32,11 @@ redirect_from:
 * Developed assay for measuring mitophagy _in situ_. 
 * Built pipeline for high-throughput imaging analysis. 
 * Designed and executed experiments examining the effects of autophagic perturbations on mitochondrial function.
-* Techniques: Professor Git
 
 **Research Assistant** _(2011 - 2015)_
 * Solomon H. Snyder Department of Neuroscience, Johns Hopkins University
 * Supervisor: Professor Hey-Kyoung Lee
 * Assisted in experiments examining the effects of visual deprivation on the strength of synapses in the primary auditory and visual cortices of mice.
-* Techniques: Golgi staining, biotinylation, western blotting, mouse surgical injections, dissection, electrophysiology brain slice preparation, laser confocal microscopy
   
 ## Familiar Techniques
 
