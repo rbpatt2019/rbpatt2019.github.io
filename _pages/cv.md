@@ -9,35 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-### Graduate Education
+## Graduate Education
 
 **The University of Oxford**, Oxford, UK
 
 _MSc by Research_, Medical Science, Oct. 2019 
 * Thesis: _Investigating the effects of autophagic perturbations on mitochondrial function_
 
-**Johns Hopkins University** <div style="text-align: right"> Baltimore, MD, USA </div>
-_BSc_, Neuroscience and Molecular & Celular Biology <div style="text-align: right"> May 2015 </div>
-_Minor_, Spanish for the Professions <div style="text-align: right"> May 2015 </div>
+**Johns Hopkins University**, Baltimore, MD, USA
+
+_BSc_, Neuroscience and Molecular & Celular Biology, May 2015
+
+_Minor_, Spanish for the Professions, May 2015
 * General Honors (GPA: 3.91)
 
-### Professional Development
 
-**Foundation for Advanced Education in the Sciences**	<div style="text-align: right"> Bethesda, MD, USA </div>
-_BIOF501_, Introduction to R: Step-by-Step Guide	<div style="text-align: right"> Sept. - Dec. 2019 </div>
+## Professional Development
+
+**Foundation for Advanced Education in the Sciences**, Bethesda, MD, USA
+
+_BIOF501_, Introduction to R: Step-by-Step Guide, Sept. - Dec. 2019
 * Introductory course introducing the R environment, data structures, simulated data, packages, and programming in R.
-_BIOF399_, Deep Learning for Healthcare Image Analysis	<div style="text-align: right"> Sept. - Dec. 2019 </div>
+
+_BIOF399_, Deep Learning for Healthcare Image Analysis, Sept. - Dec. 2019
 *	Applications of convolutional neural networks (CNNs) to MRI scans using MXNet to create GPU accelerated networks.
-_BIOF509_, Applied Machine Learning	<div style="text-align: right"> Feb. - May 2019 </div>
+
+_BIOF509_, Applied Machine Learning, Feb. - May 2019
 *	Broad, practical introduction to machine learning, covering regression, random forest, K-means clustering, and deep learning using scikit-learn and tensorflow.
-_BIOF518_, Theoretical and Applied Bioinformatics	<div style="text-align: right"> Sept. - Dec. 2018 </div>
+
+_BIOF518_, Theoretical and Applied Bioinformatics, Sept. - Dec. 2018
 *	Introduction to the theory and practice of a wide range of bioinformatic techniques, including BLAST, gene structure prediction, phylogenetics, and sequence alignments.
-_BIOF309_, Introduction to Python	<div style="text-align: right"> Sept. - Dec. 2018 </div>
+
+_BIOF309_, Introduction to Python, Sept. - Dec. 2018
 *	Introductory course covering Python basic principles such as syntax, reading/writing files, debugging, regular expressions, and creating modules.
-_Scientists Teaching Science_	<div style="text-align: right"> Mar. - Apr. 2018 </div>
+
+_Scientists Teaching Science_, Mar. - Apr. 2018
 *	Teaching course for scientists that introduced principles of effective teaching and communication, including enquiry-based learning, course planning, and exam writing.
 
-### Research Experience
+
+## Research Experience
 
 **Dept. of Physiology, Anatomy, and Genetics, The University of Oxford**	<div style="text-align: right"> Oxford, UK </div>
 **National Institute of Neurological Disorders and Stroke, NIH**	<div style="text-align: right"> Bethesda, MD, USA </div>
