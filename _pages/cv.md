@@ -9,51 +9,91 @@ redirect_from:
 
 {% include base_path %}
 
-## Graduate Education
+### Graduate Education
 
-**Further Coursework** _Fellowship for Advanced Education in the Sciences, (2018 - 2019)_
-   * Introduction to Python
-   * Applied Machine Learning
-   * Theoretical and Applied Bioinformatics
+**The University of Oxford** <div style="text-align: right"> Oxford, UK </div>
+_MSc by Research_, Medical Science <div style="text-align: right"> Oct. 2019 </div>
+* Thesis: _Investigating the effects of autophagic perturbations on mitochondrial function
 
-**MSc (Res) in Biomedical Science** _The University of Oxford, (2019) (expected)_
+**Johns Hopkins University** <div style="text-align: right"> Baltimore, MD, USA </div>
+_BSc_, Neuroscience and Molecular & Celular Biology <div style="text-align: right"> May 2015 </div>
+_Minor_, Spanish for the Professions <div style="text-align: right"> May 2015 </div>
+* General Honors (GPA: 3.91)
 
-**BSc in Neuroscience**, _Johns Hopkins University, 2015_
+### Professional Development
 
-**BSc in Molecular and Cellular Biology**, _Johns Hopkins University, 2015_
+**Foundation for Advanced Education in the Sciences**	<div style="text-align: right"> Bethesda, MD, USA </div>
+_BIOF501_, Introduction to R: Step-by-Step Guide	<div style="text-align: right"> Sept. - Dec. 2019 </div>
+* Introductory course introducing the R environment, data structures, simulated data, packages, and programming in R.
+_BIOF399_, Deep Learning for Healthcare Image Analysis	<div style="text-align: right"> Sept. - Dec. 2019 </div>
+*	Applications of convolutional neural networks (CNNs) to MRI scans using MXNet to create GPU accelerated networks.
+_BIOF509_, Applied Machine Learning	<div style="text-align: right"> Feb. - May 2019 </div>
+*	Broad, practical introduction to machine learning, covering regression, random forest, K-means clustering, and deep learning using scikit-learn and tensorflow.
+_BIOF518_, Theoretical and Applied Bioinformatics	<div style="text-align: right"> Sept. - Dec. 2018 </div>
+*	Introduction to the theory and practice of a wide range of bioinformatic techniques, including BLAST, gene structure prediction, phylogenetics, and sequence alignments.
+_BIOF309_, Introduction to Python	<div style="text-align: right"> Sept. - Dec. 2018 </div>
+*	Introductory course covering Python basic principles such as syntax, reading/writing files, debugging, regular expressions, and creating modules.
+_Scientists Teaching Science_	<div style="text-align: right"> Mar. - Apr. 2018 </div>
+*	Teaching course for scientists that introduced principles of effective teaching and communication, including enquiry-based learning, course planning, and exam writing.
 
-**Minor in Spanish for the Professions**, _Johns Hopkins University, 2015_
+### Research Experience
 
-## Research Experience
+**Dept. of Physiology, Anatomy, and Genetics, The University of Oxford**	<div style="text-align: right"> Oxford, UK </div>
+**National Institute of Neurological Disorders and Stroke, NIH**	<div style="text-align: right"> Bethesda, MD, USA </div>
+_Masters Candidate_	<div style="text-align: right"> Sept. 2015 - Oct. 2019 </div>
+*	Supervisors: Prof. Richard Wade-Martins (Oxford) and Dr. Craig Blackstone (NIH)
+*	Developed assay for measuring mitophagy in situ to perform experiments examining the effects of autophagic perturbations on mitochondrial function.
+*	Built pipeline for high-throughput imaging analysis.
+*	Strong organizational and teamwork skills expanded by managing a research project in labs on 2 continents.
+*	Exceptional preseentation skills built through quarterly presentations in lab meeting and 1 invited talk at Master's program colloquim
 
-**Masters Student** _(2015 - Present)_
-* Department of Physiology, Anatomy, and Genetics, The University of Oxford
-* Supervisors: Professor Richard Wade-Martins (Oxford) and Professor Craig Blackstone (NINDS/NIH)
-* Developed assay for measuring mitophagy _in situ_. 
-* Built pipeline for high-throughput imaging analysis. 
-* Designed and executed experiments examining the effects of autophagic perturbations on mitochondrial function.
+**Dept. of Neuroscience, Johns Hopkins University**	<div style="text-align: right"> Baltimore, MD, USA </div>
+_Research Assistant_	<div style="text-align: right"> Sept. 2011 - May 2015 </div>
+*	Supervisor: Prof. Hey-Kyoung Lee 
+*	Assisted in experiments examining the effects of visual deprivation on the strength of synapses in the primary auditory and visual cortices of mice that led to a Journal of Neuroscience publication.
 
-**Research Assistant** _(2011 - 2015)_
-* Solomon H. Snyder Department of Neuroscience, Johns Hopkins University
-* Supervisor: Professor Hey-Kyoung Lee
-* Assisted in experiments examining the effects of visual deprivation on the strength of synapses in the primary auditory and visual cortices of mice.
-  
-## Familiar Techniques
+### Teaching
+
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+### Awards
+
+**Intramural Research Training Award** div style="text-align: right"> Sept. 2015 - Jan. 2020 </div>
+_National Institutes of Health_
+
+**Barry Goldwater Scholarship** div style="text-align: right"> 2014 </div>
+_The Barry Goldwater Scholarship and Excellence in Education Foundation_
+
+### Publications
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+### Familiar Techniques
 
 **Data Science**
 * Python
    * Multiple IDEs (VIM, PyCharm, VSCode)
    * Virtual environment and version control with pyenv
-* Command line interfaces (Unix, Windows, MacOS)
+   * Data wrangling with pandas and numpy
+* Command line interfaces 
+  * Unix
+  * MacOS
+  * Windows
 * Project version control with git
-* High-throughput data analysis (Perkin Elmer Harmony platform)
+* High-throughput data analysis 
+  * Perkin Elmer Harmony platform
 * DNA sequence analysis
    * Blast
    * Clustal
 
 **Laboratory**
-* Airy scan microscopy (Zeis 880 platform)
-* High-throughput laser confocal microscopy (Perkin Elmer Phenix platform)
+* Airy scan microscopy 
+  * Zeis 880 platform
+* High-throughput laser confocal microscopy 
+  * Perkin Elmer Phenix platform
 * General cell culture
 * Chemical differentiation of iPSCs
 * Immunofluorescence
@@ -65,23 +105,7 @@ redirect_from:
 * Golgi staining
 * Brain slice preparation for electrophysiology
 
-## Teaching
 
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-## Awards
-
-**Intramural Research Training Award** _National Institutes of Health (2015 - Present)_
-
-**Barry Goldwater Scholarship** _The Barry Goldwater Scholarship and Excellence in Education Foundation (2014)_
-
-## Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 <!--
 Talks
