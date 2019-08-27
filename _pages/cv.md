@@ -43,7 +43,7 @@ _BIOF518_, Theoretical and Applied Bioinformatics, Sept. - Dec. 2018
 _BIOF309_, Introduction to Python, Sept. - Dec. 2018
 *	Introductory course covering Python basic principles such as syntax, reading/writing files, debugging, regular expressions, and creating modules.
 
-_Scientists Teaching Science_, Mar. - Apr. 2018
+_[Scientists Teaching Science](https://www.training.nih.gov/sts_main_page)_, Mar. - Apr. 2018
 *	Teaching course for scientists that introduced principles of effective teaching and communication, including enquiry-based learning, course planning, and exam writing.
 
 
