@@ -12,8 +12,9 @@ redirect_from:
 ### Graduate Education
 
 **The University of Oxford**, Oxford, UK
+
 _MSc by Research_, Medical Science, Oct. 2019 
-* Thesis: _Investigating the effects of autophagic perturbations on mitochondrial function
+* Thesis: _Investigating the effects of autophagic perturbations on mitochondrial function_
 
 **Johns Hopkins University** <div style="text-align: right"> Baltimore, MD, USA </div>
 _BSc_, Neuroscience and Molecular & Celular Biology <div style="text-align: right"> May 2015 </div>
