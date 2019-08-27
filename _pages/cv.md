@@ -11,8 +11,8 @@ redirect_from:
 
 ### Graduate Education
 
-**The University of Oxford** <div style="text-align: right"> Oxford, UK </div>
-_MSc by Research_, Medical Science <div style="text-align: right"> Oct. 2019 </div>
+**The University of Oxford**, Oxford, UK
+_MSc by Research_, Medical Science, Oct. 2019 
 * Thesis: _Investigating the effects of autophagic perturbations on mitochondrial function
 
 **Johns Hopkins University** <div style="text-align: right"> Baltimore, MD, USA </div>
