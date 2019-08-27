@@ -49,40 +49,48 @@ _Scientists Teaching Science_, Mar. - Apr. 2018
 
 ## Research Experience
 
-**Dept. of Physiology, Anatomy, and Genetics, The University of Oxford**	<div style="text-align: right"> Oxford, UK </div>
-**National Institute of Neurological Disorders and Stroke, NIH**	<div style="text-align: right"> Bethesda, MD, USA </div>
-_Masters Candidate_	<div style="text-align: right"> Sept. 2015 - Oct. 2019 </div>
+**Dept. of Physiology, Anatomy, and Genetics, The University of Oxford**, Oxford, UK, and **The National Institute of Neurological Disorders and Stroke, NIH**	Bethesda, MD, USA
+
+_Masters Candidate_, Sept. 2015 - Oct. 2019
 *	Supervisors: Prof. Richard Wade-Martins (Oxford) and Dr. Craig Blackstone (NIH)
 *	Developed assay for measuring mitophagy in situ to perform experiments examining the effects of autophagic perturbations on mitochondrial function.
 *	Built pipeline for high-throughput imaging analysis.
 *	Strong organizational and teamwork skills expanded by managing a research project in labs on 2 continents.
 *	Exceptional preseentation skills built through quarterly presentations in lab meeting and 1 invited talk at Master's program colloquim
 
-**Dept. of Neuroscience, Johns Hopkins University**	<div style="text-align: right"> Baltimore, MD, USA </div>
-_Research Assistant_	<div style="text-align: right"> Sept. 2011 - May 2015 </div>
+**Dept. of Neuroscience, Johns Hopkins University**, Baltimore, MD, USA
+
+_Research Assistant_, Sept. 2011 - May 2015
 *	Supervisor: Prof. Hey-Kyoung Lee 
 *	Assisted in experiments examining the effects of visual deprivation on the strength of synapses in the primary auditory and visual cortices of mice that led to a Journal of Neuroscience publication.
 
-### Teaching
+
+## Teaching
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-### Awards
 
-**Intramural Research Training Award** div style="text-align: right"> Sept. 2015 - Jan. 2020 </div>
+## Awards
+
+**Intramural Research Training Award**, Sept. 2015 - Jan. 2020
+
 _National Institutes of Health_
 
-**Barry Goldwater Scholarship** div style="text-align: right"> 2014 </div>
+**Barry Goldwater Scholarship**, 2014
+
 _The Barry Goldwater Scholarship and Excellence in Education Foundation_
 
-### Publications
+
+## Publications
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-### Familiar Techniques
+  
+  
+## Familiar Techniques
 
 **Data Science**
 * Python
