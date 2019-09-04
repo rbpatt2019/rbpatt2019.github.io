@@ -49,6 +49,13 @@ _[Scientists Teaching Science](https://www.training.nih.gov/sts_main_page)_, Mar
 
 ## Research Experience
 
+**The National Institute of Neurological Disorders and Stroke, NIH**	Bethesda, MD, USA
+
+_Pre-Doctoral Fellow_, Oct. 2019 - Jan. 2020
+* Supervisor: Dr. Ariel Levine
+* Analysis of single-nucleus RNA sequencing (snRNAseq) experiments performed wtih drop-seq and the Illumina HiSeq 2500 Platform using R-Based analysis tools, such as Seurat
+* Work towards developing standard data requirements for RANseq experiments.
+
 **Dept. of Physiology, Anatomy, and Genetics, The University of Oxford**, Oxford, UK, and **The National Institute of Neurological Disorders and Stroke, NIH**	Bethesda, MD, USA
 
 _Masters Candidate_, Sept. 2015 - Oct. 2019
@@ -93,6 +100,7 @@ _The Barry Goldwater Scholarship and Excellence in Education Foundation_
 ## Familiar Techniques
 
 **Data Science**
+* R
 * Python
    * Multiple IDEs (VIM, PyCharm, VSCode)
    * Virtual environment and version control with pyenv
