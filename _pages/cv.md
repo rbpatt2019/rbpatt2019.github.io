@@ -9,81 +9,63 @@ redirect_from:
 
 {% include base_path %}
 
-## Proefssional Development
+## Education
 
-**Fellowship for Advanced Education in the Sciences**,
+### The University of Oxford, Oxford, UK
 
-_Sept 2018 - Dec 2019_
+_MSc by Research_, Medical Science, Oct. 2019
+- Thesis: _Investigating the effects of autophagic perturbations on mitochondrial function_
 
-_Bethesda, MD, USA_
+### Johns Hopkins University, Baltimore, MD, USA
 
-- Introduction to Python
-- Applied Machine Learning
-- Theoretical and Applied Bioinformatics
-- Deep Learning for Healthcare Image Analysis
-- Scientists Teaching Science
+_BSc_, Neuroscience and Molecular & Celular Biology, May 2015
+- General Honors (GPA: 3.91)
 
-## Graduate Education
+_Minor_, Spanish for the Professions, May 2015
 
-### MSc (Res) in Medical Science
+## Professional Development
 
-_The University of Oxford, Oct 2019_
+### Foundation for Advanced Education in the Sciences, Bethesda, MD, USA
 
-_Oxford, UK_
+_BIOF399_, Deep Learning for Healthcare Image Analysis, Sept. - Dec. 2019
+-	Applications of convolutional neural networks (CNNs) to MRI scans using MXNet to create GPU accelerated networks.
 
-### BSc in Neuroscience
+_BIOF509_, Applied Machine Learning, Feb. - May 2019
+-	Broad, practical introduction to machine learning, covering regression, random forest, K-means clustering, and deep learning using scikit-learn and tensorflow.
 
-_Johns Hopkins University, May 2015_
+_BIOF518_, Theoretical and Applied Bioinformatics, Sept. - Dec. 2018
+-	Introduction to the theory and practice of a wide range of bioinformatic techniques, including BLAST, gene structure prediction, phylogenetics, and sequence alignments.
 
-_Baltimore, MD, USA_
+_BIOF309_, Introduction to Python, Sept. - Dec. 2018
+-	Introductory course covering Python basic principles such as syntax, reading/writing files, debugging, regular expressions, and creating modules.
 
-### BSc in Molecular and Cellular Biology
-
-_Johns Hopkins University, May 2015_
-
-_Baltimore, MD, USA_
-
-### Minor in Spanish for the Professions
-
-_Johns Hopkins University, May 2015_
-
-_Baltimore, MD, USA_
+_[Scientists Teaching Science](https://www.training.nih.gov/sts_main_page)_, Mar. - Apr. 2018
+-	Teaching course for scientists that introduced principles of effective teaching and communication, including enquiry-based learning, course planning, and exam writing.
 
 ## Research Experience
 
-### Pre-Doctoral Fellow
+### The National Institute of Neurological Disorders and Stroke, NIH,	Bethesda, MD, USA
 
-_National Institutes of Health, Oct 2019 - Jan 2020_
-
-_Bethesda, MD, USA_
-
-- National Institute of Neurological Disorders and Stroke
+_Pre-Doctoral Fellow_, Oct. 2019 - Jan. 2020
 - Supervisor: Dr. Ariel Levine
-- Analysis of single-cell RNAseq data from mouse spinal cord to identify cell types involved in motor learning and behaviour
-- Work towards establishing standard data requirements for single cell RNAseq databases.
+- Analysis of single-nucleus RNA sequencing (snRNAseq) experiments performed wtih drop-seq and the Illumina HiSeq 2500 Platform using R-Based analysis tools, such as Seurat
+- Work towards developing standard data requirements for RANseq experiments.
 
-### Masters Student
+### Dept. of Physiology, Anatomy, and Genetics, The University of Oxford, Oxford, UK, and The National Institute of Neurological Disorders and Stroke, NIH,	Bethesda, MD, USA
 
-_The University of Oxford, Sept 2015 - Oct 2019_
+_Masters Candidate_, Sept. 2015 - Oct. 2019
+-	Supervisors: Prof. Richard Wade-Martins (Oxford) and Dr. Craig Blackstone (NIH)
+-	Developed assay for measuring mitophagy in situ to perform experiments examining the effects of autophagic perturbations on mitochondrial function.
+-	Built pipeline for high-throughput imaging analysis.
+-	Strong organizational and teamwork skills expanded by managing a research project in labs on 2 continents.
+-	Exceptional preseentation skills built through quarterly presentations in lab meeting and 1 invited talk at Master's program colloquim
 
-_Oxford, UK_
+### Dept. of Neuroscience, Johns Hopkins University, Baltimore, MD, USA
 
-- Department of Physiology, Anatomy, and Genetics
-- Supervisors: Professor Richard Wade-Martins (Oxford) and Dr. Craig Blackstone (NINDS/NIH)
-- Developed assay for measuring mitophagy _in situ_. 
-- Built pipeline for high-throughput imaging analysis.
-- Designed and executed experiments examining the effects of autophagic perturbations on mitochondrial function.
+_Research Assistant_, Sept. 2011 - May 2015
+-	Supervisor: Prof. Hey-Kyoung Lee 
+-	Assisted in experiments examining the effects of visual deprivation on the strength of synapses in the primary auditory and visual cortices of mice that led to a Journal of Neuroscience publication.
 
-### Research Assistant
-
-_Johns Hopkins University, May 2015_
-
-_Baltimore, MD, USA_
-
-- Solomon H. Snyder Department of Neuroscience, Johns Hopkins University
-- Supervisor: Professor Hey-Kyoung Lee
-- Assisted in experiments examining the effects of visual deprivation on the strength of synapses in the primary auditory and visual cortices of mice.
-  
 ## Teaching
 
   <ul>{% for post in site.teaching %}
@@ -136,11 +118,3 @@ _The Barry Goldwater Scholarship and Excellence in Education Foundation, 2014_
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-<!--
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
--->
