@@ -18,7 +18,7 @@ _MSc by Research_, Medical Science, Oct. 2019
 
 ### Johns Hopkins University, Baltimore, MD, USA
 
-_BSc_, Neuroscience and Molecular & Celular Biology, May 2015
+_BSc_, Neuroscience and Molecular & Cellular Biology, May 2015
 - General Honors (GPA: 3.91)
 
 _Minor_, Spanish for the Professions, May 2015
@@ -48,7 +48,7 @@ _[Scientists Teaching Science](https://www.training.nih.gov/sts_main_page)_, Mar
 
 _Pre-Doctoral Fellow_, Oct. 2019 - Jan. 2020
 - Supervisor: Dr. Ariel Levine
-- Analysis of single-nucleus RNA sequencing (snRNAseq) experiments performed wtih drop-seq and the Illumina HiSeq 2500 Platform using R-Based analysis tools, such as Seurat
+- Analysis of single-nucleus RNA sequencing (snRNAseq) experiments performed wtih drop-seq and the Illumina HiSeq 2500 Platform using CellRanger and R-Based analysis tools, such as Seurat
 - Work towards developing standard data requirements for RANseq experiments.
 
 ### Dept. of Physiology, Anatomy, and Genetics, The University of Oxford, Oxford, UK, and The National Institute of Neurological Disorders and Stroke, NIH,	Bethesda, MD, USA
