@@ -83,7 +83,7 @@ _Bethesda, MD, USA_
 
 _The Barry Goldwater Scholarship and Excellence in Education Foundation, 2014_
 
-## Publications
+## PUBLICATIONS
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
