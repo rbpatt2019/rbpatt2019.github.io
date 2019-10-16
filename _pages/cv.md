@@ -9,26 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+## EDUCATION
 
 ### The University of Oxford, Oxford, UK
 
 _MSc by Research_, Medical Science, Oct. 2019
-- Thesis: _Investigating the effects of autophagic perturbations on mitochondrial function_
-
-### Johns Hopkins University, Baltimore, MD, USA
-
-_BSc_, Neuroscience and Molecular & Cellular Biology, May 2015
-- General Honors (GPA: 3.91)
-
-_Minor_, Spanish for the Professions, May 2015
-
-## Professional Development
+- Thesis: _Investigating the effects of autophagic perturbations on mitochondrial function in Parkinson's Disease_
 
 ### Foundation for Advanced Education in the Sciences, Bethesda, MD, USA
 
 _BIOF399_, Deep Learning for Healthcare Image Analysis, Sept. - Dec. 2019
--	Applications of convolutional neural networks (CNNs) to MRI scans using MXNet to create GPU accelerated networks.
+-	Applications of convolutional neural networks (CNNs) to data to create GPU accelerated networks using Keras and TensorFlow.
 
 _BIOF509_, Applied Machine Learning, Feb. - May 2019
 -	Broad, practical introduction to machine learning, covering regression, random forest, K-means clustering, and deep learning using scikit-learn and tensorflow.
@@ -42,23 +33,31 @@ _BIOF309_, Introduction to Python, Sept. - Dec. 2018
 _[Scientists Teaching Science](https://www.training.nih.gov/sts_main_page)_, Mar. - Apr. 2018
 -	Teaching course for scientists that introduced principles of effective teaching and communication, including enquiry-based learning, course planning, and exam writing.
 
-## Research Experience
+### Johns Hopkins University, Baltimore, MD, USA
+
+_BSc_, Neuroscience and Molecular & Cellular Biology, May 2015
+- General Honors (GPA: 3.91)
+
+_Minor_, Spanish for the Professions, May 2015
+
+## RESEARCH EXPERIENCE
 
 ### The National Institute of Neurological Disorders and Stroke, NIH,	Bethesda, MD, USA
 
 _Pre-Doctoral Fellow_, Oct. 2019 - Jan. 2020
 - Supervisor: Dr. Ariel Levine
-- Analysis of single-nucleus RNA sequencing (snRNAseq) experiments performed wtih drop-seq and the Illumina HiSeq 2500 Platform using CellRanger and R-Based analysis tools, such as Seurat
-- Work towards developing standard data requirements for RANseq experiments.
+-	Pre-processing of single-nucleus RNA sequencing (snRNAseq) data using Bash scripting and command-line tools, including CellRanger.
+-	Clustering, labelling, and differential expression analysis of snRNAseq data using industry standard tools in R and Python, including Seurat, UMAP, and DESeq2.
+-	Work towards developing standard data requirements for RNAseq databases. 
 
 ### Dept. of Physiology, Anatomy, and Genetics, The University of Oxford, Oxford, UK, and The National Institute of Neurological Disorders and Stroke, NIH,	Bethesda, MD, USA
 
 _Masters Candidate_, Sept. 2015 - Oct. 2019
 -	Supervisors: Prof. Richard Wade-Martins (Oxford) and Dr. Craig Blackstone (NIH)
 -	Developed assay for measuring mitophagy in situ to perform experiments examining the effects of autophagic perturbations on mitochondrial function.
--	Built pipeline for high-throughput imaging analysis.
--	Strong organizational and teamwork skills expanded by managing a research project in labs on 2 continents.
--	Exceptional preseentation skills built through quarterly presentations in lab meeting and 1 invited talk at Master's program colloquim
+-	Built pipeline for automated high-throughput imaging and analysis of data files greater than 100 Gb using the Perkin Elmer High Content Screening System
+-	Strong organizational, teamwork, and collaboration skills expanded by managing a research project in labs on 2 continents.
+-	Exceptional communication skills built through quarterly presentations in lab meeting and 1 invited talk at Master's program colloquium.
 
 ### Dept. of Neuroscience, Johns Hopkins University, Baltimore, MD, USA
 
@@ -66,13 +65,13 @@ _Research Assistant_, Sept. 2011 - May 2015
 -	Supervisor: Prof. Hey-Kyoung Lee 
 -	Assisted in experiments examining the effects of visual deprivation on the strength of synapses in the primary auditory and visual cortices of mice that led to a Journal of Neuroscience publication.
 
-## Teaching
+## TEACHING EXPERIENCE
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Awards
+## AWARDS
 
 ### Intramural Research Training Award
 
@@ -84,19 +83,23 @@ _Bethesda, MD, USA_
 
 _The Barry Goldwater Scholarship and Excellence in Education Foundation, 2014_
 
-## Familiar Techniques
+## Publications
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+## ADDITIONAL SKILLS
 
 ### Data Science
 
-- Python
-  - Multiple IDEs (VIM, PyCharm, VSCode)
-  - Virtual environment and version control with pyenv
-- Command line interfaces (Unix, Windows, MacOS)
-- Project version control with git
-- High-throughput data analysis (Perkin Elmer Harmony platform)
-- DNA sequence analysis
-  - Blast
-  - Clustal
+-	Programming with Python, R, Bash, and Fish
+-	Python Virtual environment and version control with pyenv 
+-	Command line interfaces (Linux, MacOS, Windows)
+-	Version control with git 
+-	Continuous integration with Travis CI, CodeCov, PyUp, and Read the Docs
+-	High-throughput data analysis with the Perkin Elmer Harmony platform
+-	DNA sequence analysis with Blast and Clustal
 
 ### Laboratory
 
@@ -112,9 +115,3 @@ _The Barry Goldwater Scholarship and Excellence in Education Foundation, 2014_
 - Biotinylation 
 - Golgi staining
 - Brain slice preparation for electrophysiology
-
-## Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
