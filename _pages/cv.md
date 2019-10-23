@@ -48,7 +48,7 @@ _Pre-Doctoral Fellow_, Oct. 2019 - Jan. 2020
 - Supervisor: Dr. Ariel Levine
 -	Pre-processing of single-nucleus RNA sequencing (snRNAseq) data using Bash scripting and command-line tools, including CellRanger.
 -	Clustering, labelling, and differential expression analysis of snRNAseq data using industry standard tools in R and Python, including Seurat, UMAP, and DESeq2.
--	Work towards developing standard data requirements for RNAseq databases. 
+- Experience in cluster computing using Biowulf, one of the world's 150 most powerful computers.
 
 ### Dept. of Physiology, Anatomy, and Genetics, The University of Oxford, Oxford, UK, and The National Institute of Neurological Disorders and Stroke, NIH,	Bethesda, MD, USA
 
