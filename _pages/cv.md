@@ -48,7 +48,7 @@ _Pre-Doctoral Fellow_, Oct. 2019 - Jan. 2020
 - Supervisor: Dr. Ariel Levine
 -	Pre-processing of single-nucleus RNA sequencing (snRNAseq) data using Bash scripting and command-line tools, including CellRanger.
 -	Clustering, labelling, and differential expression analysis of snRNAseq data using industry standard tools in R and Python, including Seurat, UMAP, and DESeq2.
-- Development of support vetor machines and neural networks for classification of cell types from raw snRNAseq data.
+- Development of support vetor machines and neural networks for classification of cell types from raw scRNAseq data.
 - Experience in cluster computing using Biowulf, one of the world's 150 most powerful computers.
 
 ### Dept. of Physiology, Anatomy, and Genetics, The University of Oxford, Oxford, UK, and The National Institute of Neurological Disorders and Stroke, NIH,	Bethesda, MD, USA
@@ -72,24 +72,6 @@ _Research Assistant_, Sept. 2011 - May 2015
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## AWARDS
-
-### Intramural Research Training Award
-
-_National Institutes of Health, Sept 2015 - Jan 2020_
-
-_Bethesda, MD, USA_
-
-### Barry Goldwater Scholarship
-
-_The Barry Goldwater Scholarship and Excellence in Education Foundation, 2014_
-
-## PUBLICATIONS
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 ## ADDITIONAL SKILLS
 
 ### Data Science
@@ -116,3 +98,22 @@ _The Barry Goldwater Scholarship and Excellence in Education Foundation, 2014_
 - Biotinylation 
 - Golgi staining
 - Brain slice preparation for electrophysiology
+
+## AWARDS
+
+### Intramural Research Training Award
+
+_National Institutes of Health, Sept 2015 - Jan 2020_
+
+_Bethesda, MD, USA_
+
+### Barry Goldwater Scholarship
+
+_The Barry Goldwater Scholarship and Excellence in Education Foundation, 2014_
+
+## PUBLICATIONS
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
