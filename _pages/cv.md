@@ -44,11 +44,11 @@ _Minor_, Spanish for the Professions, May 2015
 
 ### The National Institute of Neurological Disorders and Stroke, NIH,	Bethesda, MD, USA
 
-_Pre-Doctoral Fellow_, Oct. 2019 - Jan. 2020
+_Pre-Doctoral Fellow_, Oct. 2019 - Present
 - Supervisor: Dr. Ariel Levine
--	Pre-processing of single-nucleus RNA sequencing (snRNAseq) data using Bash scripting and command-line tools, including CellRanger.
--	Clustering, labelling, and differential expression analysis of snRNAseq data using industry standard tools in R and Python, including Seurat, UMAP, and DESeq2.
-- Development of support vector machines and neural networks for classification of cell types from raw scRNAseq data.
+- Developed a pipeline in R that used interative, sub-sampled clustering to assay technical and biological robustness as criteria for guiding cluster choice. This pipeline lead to one publication, currently in preparation.
+- Examined the performance of multiple clustering methods, including label transfer, SVMs, and neural networks, to create an algorithm for accurately using a reference dataset to label cell type. This work lead to one publication, currently in preparation.
+-	Full analysis of single cell RNA sequencing datasets, from pre-processing data using Bash scripting and command-line tools, to using R and Python packages, such as Seurat and Scanpy, for clustering and differential expression testing.
 - Experience in cluster computing using Biowulf, one of the world's 150 most powerful computers.
 
 ### Dept. of Physiology, Anatomy, and Genetics, The University of Oxford, Oxford, UK, and The National Institute of Neurological Disorders and Stroke, NIH,	Bethesda, MD, USA
@@ -77,10 +77,11 @@ _Research Assistant_, Sept. 2011 - May 2015
 ### Data Science
 
 -	Programming with Python, R, Bash, and Fish
+- PyPi package development with continuous integration using TravisCI, Codecov, Pyup, and Read the Docs
+-	Python app development with Dash, using Percy for visual testing
 -	Python Virtual environment and version control with pyenv 
 -	Command line interfaces (Linux, MacOS, Windows)
 -	Version control with git 
--	Continuous integration with Travis CI, CodeCov, PyUp, and Read the Docs
 -	High-throughput data analysis with the Perkin Elmer Harmony platform
 -	DNA sequence analysis with Blast and Clustal
 
@@ -88,9 +89,9 @@ _Research Assistant_, Sept. 2011 - May 2015
 
 - Airy scan microscopy (Zeis 880 platform)
 - High-throughput laser confocal microscopy (Perkin Elmer Phenix platform)
+- Immunofluorescence
 - General cell culture
 - Chemical differentiation of iPSCs
-- Immunofluorescence
 - Plasmid and viral vector design and construction
 - Western blotting
 - DNA gel electrophoresis
