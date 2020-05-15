@@ -1,18 +1,7 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Ryan Patterson-Cross:
+  name        : "Ryan Patterson-Cross"
+  uri         : "https://rbpatt2019.github.io/"
+  email       : "rb.patterson.cross@gmail.com"
+  bio         : "Currently a research fellow in the Spinal Circuits and Plasticity Unit, NINDS, NIH, with a passion for all things data science, Python, R, and Vim!"
