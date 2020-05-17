@@ -15,8 +15,8 @@ redirect_from:
 
 _Pre-Doctoral Fellow_, Oct. 2019 - Present
 - Supervisor: Dr. Ariel Levine
-- Developed a pipeline in R that used interative, sub-sampled clustering to assay technical and biological robustness as criteria for guiding cluster choice. This pipeline lead to one publication, currently in preparation.
-- Examined the performance of multiple clustering methods, including label transfer, SVMs, and neural networks, to create an algorithm for accurately using a reference dataset to label cell type. This work lead to one publication, currently in preparation.
+-	Implemented multiple machine learning classifiers in Python, including support vector machines, neural networks, and random forests, to create a cell-type classifying algorithm for implementation with a novel, reference dataset. This work has led to one manuscript, currently in preparation.
+-	Embraced novel idea of measuring both technical and biological cluster robustness with an R-based pipeline to reduce bias in cell-type identification using iterative, subsampled clustering. This work has led to one manuscript, currently in preparation.
 -	Full analysis of single cell RNA sequencing datasets, from pre-processing data using Bash scripting and command-line tools, to using R and Python packages, such as Seurat and Scanpy, for clustering and differential expression testing.
 - Experience in cluster computing using Biowulf, one of the world's 150 most powerful computers.
 
@@ -34,6 +34,7 @@ _Masters Candidate_, Sept. 2015 - Oct. 2019
 _Research Assistant_, Sept. 2011 - May 2015
 -	Supervisor: Prof. Hey-Kyoung Lee 
 -	Assisted in experiments examining the effects of visual deprivation on the strength of synapses in the primary auditory and visual cortices of mice that led to a Journal of Neuroscience publication.
+
 ## EDUCATION
 
 ### The University of Oxford, Oxford, UK
