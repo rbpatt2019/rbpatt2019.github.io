@@ -9,6 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+## RESEARCH EXPERIENCE
+
+### The National Institute of Neurological Disorders and Stroke, NIH,	Bethesda, MD, USA
+
+_Pre-Doctoral Fellow_, Oct. 2019 - Present
+- Supervisor: Dr. Ariel Levine
+- Developed a pipeline in R that used interative, sub-sampled clustering to assay technical and biological robustness as criteria for guiding cluster choice. This pipeline lead to one publication, currently in preparation.
+- Examined the performance of multiple clustering methods, including label transfer, SVMs, and neural networks, to create an algorithm for accurately using a reference dataset to label cell type. This work lead to one publication, currently in preparation.
+-	Full analysis of single cell RNA sequencing datasets, from pre-processing data using Bash scripting and command-line tools, to using R and Python packages, such as Seurat and Scanpy, for clustering and differential expression testing.
+- Experience in cluster computing using Biowulf, one of the world's 150 most powerful computers.
+
+### Dept. of Physiology, Anatomy, and Genetics, The University of Oxford, Oxford, UK, and The National Institute of Neurological Disorders and Stroke, NIH,	Bethesda, MD, USA
+
+_Masters Candidate_, Sept. 2015 - Oct. 2019
+-	Supervisors: Prof. Richard Wade-Martins (Oxford) and Dr. Craig Blackstone (NIH)
+-	Developed assay for measuring mitophagy in situ to perform experiments examining the effects of autophagic perturbations on mitochondrial function.
+-	Built pipeline for automated high-throughput imaging and analysis of data files greater than 100 Gb using the Perkin Elmer High Content Screening System
+-	Strong organizational, teamwork, and collaboration skills expanded by managing a research project in labs on 2 continents.
+-	Exceptional communication skills built through quarterly presentations in lab meeting and 1 invited talk at Master's program colloquium.
+
+### Dept. of Neuroscience, Johns Hopkins University, Baltimore, MD, USA
+
+_Research Assistant_, Sept. 2011 - May 2015
+-	Supervisor: Prof. Hey-Kyoung Lee 
+-	Assisted in experiments examining the effects of visual deprivation on the strength of synapses in the primary auditory and visual cortices of mice that led to a Journal of Neuroscience publication.
 ## EDUCATION
 
 ### The University of Oxford, Oxford, UK
@@ -40,32 +65,6 @@ _BSc_, Neuroscience and Molecular & Cellular Biology, May 2015
 
 _Minor_, Spanish for the Professions, May 2015
 
-## RESEARCH EXPERIENCE
-
-### The National Institute of Neurological Disorders and Stroke, NIH,	Bethesda, MD, USA
-
-_Pre-Doctoral Fellow_, Oct. 2019 - Present
-- Supervisor: Dr. Ariel Levine
-- Developed a pipeline in R that used interative, sub-sampled clustering to assay technical and biological robustness as criteria for guiding cluster choice. This pipeline lead to one publication, currently in preparation.
-- Examined the performance of multiple clustering methods, including label transfer, SVMs, and neural networks, to create an algorithm for accurately using a reference dataset to label cell type. This work lead to one publication, currently in preparation.
--	Full analysis of single cell RNA sequencing datasets, from pre-processing data using Bash scripting and command-line tools, to using R and Python packages, such as Seurat and Scanpy, for clustering and differential expression testing.
-- Experience in cluster computing using Biowulf, one of the world's 150 most powerful computers.
-
-### Dept. of Physiology, Anatomy, and Genetics, The University of Oxford, Oxford, UK, and The National Institute of Neurological Disorders and Stroke, NIH,	Bethesda, MD, USA
-
-_Masters Candidate_, Sept. 2015 - Oct. 2019
--	Supervisors: Prof. Richard Wade-Martins (Oxford) and Dr. Craig Blackstone (NIH)
--	Developed assay for measuring mitophagy in situ to perform experiments examining the effects of autophagic perturbations on mitochondrial function.
--	Built pipeline for automated high-throughput imaging and analysis of data files greater than 100 Gb using the Perkin Elmer High Content Screening System
--	Strong organizational, teamwork, and collaboration skills expanded by managing a research project in labs on 2 continents.
--	Exceptional communication skills built through quarterly presentations in lab meeting and 1 invited talk at Master's program colloquium.
-
-### Dept. of Neuroscience, Johns Hopkins University, Baltimore, MD, USA
-
-_Research Assistant_, Sept. 2011 - May 2015
--	Supervisor: Prof. Hey-Kyoung Lee 
--	Assisted in experiments examining the effects of visual deprivation on the strength of synapses in the primary auditory and visual cortices of mice that led to a Journal of Neuroscience publication.
-
 ## TEACHING EXPERIENCE
 
   <ul>{% for post in site.teaching %}
@@ -76,14 +75,13 @@ _Research Assistant_, Sept. 2011 - May 2015
 
 ### Data Science
 
--	Programming with Python, R, Bash, and Fish
-- PyPi package development with continuous integration using TravisCI, Codecov, Pyup, and Read the Docs
--	Python app development with Dash, using Percy for visual testing
--	Python Virtual environment and version control with pyenv 
--	Command line interfaces (Linux, MacOS, Windows)
--	Version control with git 
--	High-throughput data analysis with the Perkin Elmer Harmony platform
--	DNA sequence analysis with Blast and Clustal
+-	Data-driven graphic app design using Dash in Python with Percy for visual testing
+-	Command-line-interface (CLI) tool development using Click in Python
+-	Continuous integration with Travis CI, CodeCov, PyUp, PyTest, and Read the Docs
+-	Shell scripting in various dialects (Bash, Zsh, Fish)
+-	Version control with git/GitHub 
+-	High-throughput data analysis scripts in ImageJ using a derivative of Java
+
 
 ### Laboratory
 
