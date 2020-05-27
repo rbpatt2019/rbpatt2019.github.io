@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Ryan B Patterson"
+title                    : "Ryan B Patterson-Cross"
 title_separator          : "-"
-name                     : &name "Ryan B Patterson"
-description              : &description "Personal webpage of Ryan B Patterson"
+name                     : &name "Ryan B Patterson-Cross"
+description              : &description "Personal webpage of Ryan B Patterson-Cross"
 url                      : "https://rbpatt2019.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rbpatt2019.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ryan B Patterson"
+  name             : "Ryan B Patterson-Cross"
   avatar           : "profile.png"
   bio              : "Currently a research fellow in the Spinal Circuits and Plasticity Unit, NINDS, NIH, with a passion data science, Python, R, and all things VIM!"
   employer         : "NIH/NINDS"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ryan-patterson-cross-b121931ab/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
