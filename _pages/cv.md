@@ -15,7 +15,7 @@ redirect_from:
 
 _Pre-Doctoral Fellow_, Oct. 2019 - Present
 - Supervisor: Dr. Ariel Levine
--	Developed novel algorithm in R to create an intuitive, quantitative metric of cluster quality to reduce bias during cell-type identification in next-generation sequencing datasets. This work has led to one manuscript, currently in publication.
+-	Developed novel algorithm in R to create an intuitive, quantitative metric of cluster quality to reduce bias during cell-type identification in next-generation sequencing datasets. This work has led to one manuscript, recently submitted to _PLoS One_.
 -	Implemented multiple machine learning classifiers in Python, including support vector machines and neural networks, to create a cell-type classifying algorithm for implementation with a reference, next generation sequencing dataset. This work has led to one manuscript, currently in preparation
 -	Full analysis of single cell RNA sequencing datasets, from pre-processing data using Bash scripting and command-line tools, to using R and Python packages, such as Seurat and Scanpy, for clustering and differential expression testing.
 - Excellent communication skills honed through frequent collaborations with laboratory colleagues.
