@@ -7,20 +7,20 @@ collection: projects
 Introduction
 ------------
 
-`dash-covid19 <https://github.com/rbpatt2019/dash-covid19/>`_ is a
-`Dash <https://dash.plotly.com/>`_ app for viewing up-to-date information related
-to the spread of Covid-19 using the data provided by a variety of sources collated by `Our World in Data <https://ourworldindata.org/>`_.
+[dash-covid19](https://github.com/rbpatt2019/dash-covid19/) is a
+[Dash](https://dash.plotly.com/) app for viewing up-to-date information related
+to the spread of Covid-19 using the data provided by a variety of sources collated by [Our World in Data](https://ourworldindata.org/).
 
 Docs and Code
 -------------
 
-This app is hosted by Heroku and lives `here <https://dash-covid19-pro.herokuapp.com/>`_.
+This app is hosted by Heroku and lives [here](https://dash-covid19-pro.herokuapp.com/).
 
 The helpful hints are embedded throughout the app. Any where you see underlined text, you can mouse over to get a pop-up about what each component does.
 
-The documentation lines `here <https://dash-covid19.readthedocs.io/en/latest/>`_.
+The documentation lines [here](https://dash-covid19.readthedocs.io/en/latest/).
 
-The code lives in `here <https://github.com/rbpatt2019/dash-covid19/>`_.
+The code lives in [here](https://github.com/rbpatt2019/dash-covid19/).
 
 Usage
 -----
@@ -51,7 +51,7 @@ Now, how does one get data?
 As a trained biologist, my first thought is structured experiments,
 with repeated samples, controls groups, and as many data points as feasibly possible.
 Unfortunately, this structured framework isn't always possible,
-particularly when dealing with rpaidly evolving, as-of-yet not fully understood situations
+particularly when dealing with rapidly evolving, as-of-yet not fully understood situations
 like the current Covid-19 pandemic.
 In these cases, where limitations are inherent to the problem, transparency becomes critical.
 We must accept that the data are not, and cannot be, perfect,
@@ -59,29 +59,27 @@ recognise the limitations in the data,
 and be open about any limitations when discussing interpretations of the data.
 
 To that end, I have elected to use data collated by the team at
-`Our World in Data <https://ourworldindata.org/>`_ (OWID)
+[Our World in Data](https://ourworldindata.org/) (OWID)
 when constructing my app. The data are freely avaialble, and can be found in their
-`repo <https://github.com/owid/covid-19-data/tree/master/public/data>`_.
+[repo](https://github.com/owid/covid-19-data/tree/master/public/data).
 Their principle source of data is the
-`European Center for Disease Prevention and Control <https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide>`_
+[European Center for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
 (ECDC), who provide daily updates of worldwide statistics.
 OWID thoroughly discusses all their sources, methods for data handling,
 and the reasoning behind any decisions they make relating to data management.
-Please, visit their `repo <https://github.com/owid/covid-19-data/tree/master/public/data>`_
+Please, visit their [repo](https://github.com/owid/covid-19-data/tree/master/public/data)
 for any questions you may have about the data.
-
 
 Recent Changes
 --------------
 
 Please see the
-`CHANGELOG <https://github.com/rbpatt2019/dash-covid19/blob/master/CHANGELOG.md>`_
+[CHANGELOG](https://github.com/rbpatt2019/dash-covid19/blob/master/CHANGELOG.md)
 
 Contributing
 ------------
 
-If you would like to contribute to development, please see the `instructions <CONTRIBUTING.md>`
-
+If you would like to contribute to development, please see the [instructions](https://github.com/rbpatt2019/dash-covid19/blob/master/CONTRIBUTING.rst)
 
 Next Steps
 ----------
@@ -93,6 +91,6 @@ Next Steps
 Thank Yous
 ----------
 
-- `Dash <https://dash.plotly.com/>`_ for developing an incredible framework and excellent documentation.
-- `Dash Bootstrap Components <https://dash-bootstrap-components.opensource.faculty.ai/>`_ for making it so much easier to layout the app.
-- `OWID <https://ourworldindata.org/>`_ for providing an incredible resource amid a rapidly evolving situation.
+- [Dash](https://dash.plotly.com/) for developing an incredible framework and excellent documentation.
+- [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/) for making it so much easier to layout the app.
+- [OWID](https://ourworldindata.org/) for providing an incredible resource amid a rapidly evolving situation.
