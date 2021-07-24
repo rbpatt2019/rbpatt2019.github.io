@@ -2,10 +2,10 @@
 title: "Selecting single cell clustering parameter values using subsampling-based clustering metrics"
 collection: publications
 permalink: /publication/2021_02_01_selecting_single_cell_parameters
-excerpt: 'Here, we illustrate a subsampling-based approach (chooseR) that simultaneously guides parameter selection and characterizes cluster robustness.'
+excerpt: "Here, we illustrate a subsampling-based approach (chooseR) that simultaneously guides parameter selection and characterizes cluster robustness."
 date: 2021-02-01
 venue: 'BMC Bioinformatics'
-citation: Patterson-Cross RB, Levine AJ, Menon V. Selecting single cell clustering parameter values using subsampling-based robustness metrics. BMC Bioinformatics. 2021 Feb 1;22(1):39. doi: 10.1186/s12859-021-03957-4. PMID: 33522897; PMCID: PMC7852188.
+citation: 'Patterson-Cross RB, Levine AJ, Menon V. Selecting single cell clustering parameter values using subsampling-based robustness metrics. BMC Bioinformatics. 2021 Feb 1;22(1):39.'
 ---
 
 ## Abstract
@@ -16,3 +16,6 @@ citation: Patterson-Cross RB, Levine AJ, Menon V. Selecting single cell clusteri
 
 **Conclusion**: chooseR is a simple, conceptually understandable tool that can be used flexibly across clustering algorithms, workflows, and datasets to guide clustering parameter selection and characterize cluster robustness.
 
+## Full Text
+
+The full text of this article is available [here](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-03957-4).
