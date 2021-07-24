@@ -12,4 +12,4 @@ Ryan B Patterson-Cross is currently a computational Biologist in the Bio2 Core, 
 
 Ryan holds an MSc(Res) in Medical Science from the University of Oxford, where he studied mitochondrial turnover in Parkindson's disease. During these studies, he took several courses in data science through the FAES at the National Institutes of Health in Bethesda. He also holds a BSc in Neuroscience and a BSc in Molecular/Cellular Biology with a minor in Spanish from Johns Hopkins University.
 
-Outside of work, Ryan is an avid crafter with a penchant for crochet. He enjoys cooking and playing ukulele, tinkers in Vim, and develops projects ranging from Dash interfaces to DVC pipelines!
+Outside of work, Ryan is an avid crafter with a penchant for cross stitch. He enjoys cooking and playing ukulele, tinkers in Vim, and develops projects ranging from Dash interfaces to Snakemake pipelines!
