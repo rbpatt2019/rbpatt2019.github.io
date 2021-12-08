@@ -3,7 +3,7 @@ title: "Bioinformatics Supervisor"
 collection: teaching
 type: "Undergraduate Supervisor"
 permalink: /teaching/2021_compsci_supervisor
-venue: "Dept. of Computer Science and Technology, Universoty of Cambridge"
+venue: "Dept. of Computer Science and Technology, University of Cambridge"
 date: 2021_12_08
 location: "Cambridge, United Kingdom"
 ---
