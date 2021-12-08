@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021_07_24_Spinal_Cord_Atlas
 excerpt: 'This work provides an unprecedented view of spinal cell types, their specific gene expression signatures, and the general molecular organization.'
 date: 2021-07-24
-venue: 'Natture Communications'
+venue: 'Nature Communications'
 citation: 'Daniel E. Russ<sup>\*</sup>, Ryan B. Patterson-Cross<sup>\*</sup>, Li Li, Stephanie C. Koch, Kaya J.E. Matson, Archana Yadav, Mor R. Alkaslasi, Dylan I. Lee, Claire E. Le Pichon, Vilas Menon, Ariel J. Levine (2020). &quot;A Harmonized Atlas of Spinal Cord Cell Types and Their Spatial Organization&quot; <i>In Press, Nature Communications</i>.'
 ---
 
