@@ -95,7 +95,7 @@ _Minor_, Spanish for the Professions, May 2015
 
 * Single cell RNA sequencing analysis in R (Seurat/Scran) and Python (Scanpy/scVI)
 * Pipeline development using Snakemake
-* App development for data exploratopn in R (Shiny) and Python (dash)
+* App development for data exploration in R (Shiny) and Python (dash)
 * Data wrangling with they tidyverse (R) and pandas & numpy (Python)
 * Command-line-interface (CLI) tool development in Python
 * Continuous integration with Github Actions, Travis CI, CodeCov, PyUp, PyTest, and Read the Docs
