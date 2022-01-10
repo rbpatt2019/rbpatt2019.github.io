@@ -11,33 +11,41 @@ redirect_from:
 
 ## WORK EXPERIENCE
 
-### Bioinformatics and Biostatistics Core, Institiute for Metabolic Science, University of Cambridge, UK
+### Computational Biologist
 
-_Computational Biologist_, Nov. 2020 - Present
+**Nov. 2020 - Present**
 
-* Provide expert computational support across many projects and teams in a strongly collaborative environment.
-* Create pipelines in Snakemake for analyses from scRNAseq to API queries in order to produce FAIR/O projects.
-* Developed the Core's collaboration policy for new and incoming projects. 
+_Bioinformatics & Biostatistics (BIO2) Core, Institute for Metabolic Sciences, University of Cambridge, UK_
 
-### The National Institute of Neurological Disorders and Stroke, NIH, Bethesda, MD, USA
+_Merkle Lab, Institute for Metabolic Sciences, University. of Cambridge, UK_
 
-_Pre-Doctoral Fellow_, Oct. 2019 - Oct. 2020
+* Provide exper analysis for key stakeholders to deliver critical recommendations that guide decision-making for future strategy.
+* Wrote and implemented the Merkle Lab’s FAIR/O compliant data management policy to take advantage of remote storage and automation, which reduced overhead for wet-lab colleagues.
+* Led the initiative to write the BIO2 Core’s external collaboration policy to guide future projects and ensure successful outcomes.
+* Developed LipidTA, an open-source Python command line interface built to translate complex lipidomics data into meaningful insights.
+* Constructed self-documenting, open-source pipelines for data analysis tasks ranging from external API queries to producing reports on diverse data anylses.
 
-* Supervisor: Dr. Ariel Levine
-* Developed novel algorithm in R to create an intuitive, quantitative metric of cluster quality to reduce bias during cell-type identification in next-generation sequencing datasets. This work led to one manuscript, published in _BMC Bioinformatics_.
-* Implemented multiple machine learning classifiers in Python, including support vector machines and neural networks, to create a cell-type classifying algorithm for implementation with a reference, next generation sequencing dataset. This work led to one manuscript, currently in press at _Nature Communicastions_.
-* Full analysis of single cell RNA sequencing datasets, from pre-processing data using Bash scripting and command-line tools, to using R and Python packages, such as Seurat and Scanpy, for clustering and differential expression testing.
-* Excellent communication skills honed through frequent collaborations with laboratory colleagues.
+### Computational Biologist
 
-### Dept. of Physiology, Anatomy, and Genetics, The University of Oxford, Oxford, UK, and The National Institute of Neurological Disorders and Stroke, NIH, Bethesda, MD, USA
+**Oct. 2019 - Oct. 2020**
 
-_Masters Candidate_, Sept. 2015 - Oct. 2019
+_National Institute of Neurological Disorders and Stroke, NIH, Bethesda, Maryland, USA_
 
-* Supervisors: Prof. Richard Wade-Martins (Oxford) and Dr. Craig Blackstone (NIH)
-* Developed assay for measuring mitophagy in situ to perform experiments examining the effects of autophagic perturbations on mitochondrial function.
-* Built pipeline for automated high-throughput imaging and analysis of data files greater than 100 Gb using the Perkin Elmer High Content Screening System
-* Strong organizational, teamwork, and collaboration skills expanded by managing a research project in labs on 2 continents.
-* Exceptional communication skills built through quarterly presentations in lab meeting and 1 invited talk at Master's program colloquium.
+* Developed a data-driven framework, ChooseR, in R that used a novel metric of cluster robustness to provide a quantitative measure of the quality of chosen clustering parameters. Led to a first-author publication in BMC Bioinformatics.
+* Integrated diverse datasets to produce a reference atlas of spinal cord cell types and subsequently developed a machine learning pipeline to use this atlas to classify new cells. Led to a publication in Nature Communications.
+* Worked in a team of wet-lab scientists to translate experimental data into meaningful interpretations and actionable recommendations. Regularly communicated these analyses to team members.
+
+### Masters Candidate
+
+**Sept. 2015 - Oct. 2019**
+
+_Dept. of Physiology, Anatomy, and Genetics, University of Oxford, UK_
+
+_National Institute of Neurological Disorders and Stroke, NIH, Bethesda, Maryland, USA_
+
+* Constructed applet in ImageJ Macro Language, a derivative of Java, to improve high-throughput analysis of super-resolution fluorescence microscopy data.
+* Wove four years of experiments and data analysis into a cohesive story providing meaningful insight into the effects of autophagic perturbation on mitochondrial function in my thesis
+* Strong organizational, teamwork, and collaboration skills expanded by managing an international, collaborative research project.
 
 ### Dept. of Neuroscience, Johns Hopkins University, Baltimore, MD, USA
 
@@ -54,9 +62,11 @@ _Research Assistant_, Sept. 2011 - May 2015
 
 ## EDUCATION
 
-### The University of Oxford, Oxford, UK
+### MSc by Research in Medical Science
 
-_MSc by Research_, Medical Science, Oct. 2019
+**March 2020**
+
+_University of Oxford, UK_
 
 * Thesis: _Investigating the effects of autophagic perturbations on mitochondrial function in Parkinson's Disease_
 
@@ -81,25 +91,32 @@ _BIOF309_, Introduction to Python, Sept. - Dec. 2018
 _[Scientists Teaching Science](https://www.training.nih.gov/sts_main_page)_, Mar. - Apr. 2018
 * Teaching course for scientists that developed principles of effective teaching and communication, including enquiry-based learning, course planning, and exam writing.
 
-### Johns Hopkins University, Baltimore, MD, USA
+### BSc in Neuroscience and Molecular & Cellular Biology
 
-_BSc_, Neuroscience and Molecular & Cellular Biology, May 2015
+**May 2015**
 
-* General Honors (GPA: 3.91)
+_Johns Hopkins University, Baltimore. MD, USA__
 
-_Minor_, Spanish for the Professions, May 2015
+* General Honors (GPA: 3.91) - First equivalent
 
-## ADDITIONAL SKILLS
+### Minor in Spanish for the Professions
+
+**May 2015**
+
+_Johns Hopkins University, Baltimore. MD, USA__
+
+## Core Skills
 
 ### Data Science
 
-* Single cell RNA sequencing analysis in R (Seurat/Scran) and Python (Scanpy/scVI)
-* Pipeline development using Snakemake
+* Full stack data analysis with Pandas/Numpy/Tidyverse
+* Data visualisation with Matplotlib/Seaborn/ggplot2
 * App development for data exploration in R (Shiny) and Python (dash)
-* Data wrangling with they tidyverse (R) and pandas & numpy (Python)
-* Command-line-interface (CLI) tool development in Python
+* Command-line-interface (CLI) tool development in Python and Shell
+* Pipeline development using Snakemake
 * Continuous integration with Github Actions, Travis CI, CodeCov, PyUp, PyTest, and Read the Docs
 * Shell scripting in various dialects (Bash, Zsh, Fish)
+* Single cell RNA sequencing analysis in R (Seurat/Scran) and Python (Scanpy/scVI)
 * High-throughput data analysis scripts in ImageJ using a derivative of Java
 * Software version control with git/GitHub
 * Remote, high performance computing experience (AWS)
