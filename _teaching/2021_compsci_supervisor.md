@@ -13,7 +13,7 @@ including dynamic programming,
 phylogeny (UPGMA, Neighbour Joining, Parsimony),
 clustering (hard/soft K-means, hierarchical, Markov),
 genome sequencing (Hamiltonian and De Bruijn graphs),
-genome allignment (suffix tries and the Burrows-Wheeler Transform),
+genome alignment (suffix tries and the Burrows-Wheeler Transform),
 and Hidden Markov Models (Viterbi algorithm, Baum-Welch learning).
 
 ## Course Description
