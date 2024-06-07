@@ -5,7 +5,7 @@ permalink: /publication/2021_07_24_Spinal_Cord_Atlas
 excerpt: 'This work provides an unprecedented view of spinal cell types, their specific gene expression signatures, and the general molecular organization.'
 date: 2021-07-24
 venue: 'Nature Communications'
-citation: 'Daniel E. Russ, Ryan B. Patterson-Cross, Li Li, Stephanie C. Koch, Kaya J.E. Matson, Archana Yadav, Mor R. Alkaslasi, Dylan I. Lee, Claire E. Le Pichon, Vilas Menon, Ariel J. Levine. &quot;A Harmonized Atlas of Spinal Cord Cell Types and Their Spatial Organization&quot; <i>Nature Communications</i> <b>12</b> 5722 (2021).'
+citation: 'Russ DE, Cross RBP, Li L, Koch SC, Matson KJE, Yadav A, Alkaslasi MR, Lee DI, Le Pichon CE, Menon V, Levine AJ. A harmonized atlas of mouse spinal cord cell types and their spatial organization. Nat Commun. 2021 Sep 29;12(1):5722. doi: 10.1038/s41467-021-25125-1. Erratum in: Nat Commun. 2022 Feb 18;13(1):1033. Erratum in: Nat Commun. 2022 Oct 19;13(1):6184. PMID: 34588430; PMCID: PMC8481483.'
 ---
 
 
@@ -22,3 +22,7 @@ location of each cell type in adult tissue. We incorporated embryonic data to re
 developmental lineages for each cell type. Finally, we developed a website to share these
 resources widely. This work provides an unprecedented view of spinal cell types, their specific
 gene expression signatures, and the general molecular organization.
+
+## Full Text
+
+The full text of this article is available on [Pubmed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481483/).
